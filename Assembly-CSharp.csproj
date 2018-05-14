@@ -55,8 +55,10 @@
      <Compile Include="Assets\Scripts\EmailSender.cs" />
      <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\LevelManager.cs" />
+     <Compile Include="Assets\Scripts\mailspammer.cs" />
      <Compile Include="Assets\Scripts\PlayerMoviment.cs" />
      <Compile Include="Assets\Scripts\QuitGame.cs" />
+     <Compile Include="Assets\Scripts\UIElementDragger.cs" />
      <Compile Include="Assets\TextScript.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity2017/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
